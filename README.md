@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **recent trends in machine learning and AI space**
 
-- 👯 I’m looking to collaborate on **Data Scientists, Machine Learning Engineers, and Content creators,developers**
+- 👯 I’m looking to collaborate with **Data Scientists, Machine Learning Engineers, and Content creators,developers**
 
 - 📫 How to reach me **www.linkedin.com/in/kpradyumna095**
 
